@@ -1,0 +1,6 @@
+[13120:20520:0708/162441.665:INFO:components\enterprise\browser\controller\chrome_browser_cloud_management_controller.cc:202] No machine level policy manager exists.
+[14920:18928:0708/162442.024:ERROR:ui\gl\direct_composition_support.cc:615] AMD VideoProcessorGetOutputExtension failed: Belirtilmemiş hata (0x80004005)
+[14920:18928:0708/162442.028:VERBOSE1:components\viz\service\main\viz_main_impl.cc:86] VizNullHypothesis is disabled (not a warning)
+[16600:7612:0708/162442.239:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 8
+[13424:5524:0708/162442.764:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 8
+[23744:18236:0708/162443.525:INFO:third_party\webrtc\rtc_base\cpu_info.cc:57] Available number of cores: 8
